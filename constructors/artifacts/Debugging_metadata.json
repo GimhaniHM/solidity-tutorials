@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"constructors/Debugging.sol": "Debugging"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"constructors/Debugging.sol": {
+			"keccak256": "0x164041aa1f5f1d0e99fac5f0ae1cfe044339aa0e37862991bf12afd97b83371a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://519b1ccbfd178b36ff6f8397e1045e0cd052ac9e5d5162f5d777ff27d92f7989",
+				"dweb:/ipfs/QmWkjAWyECMHigfEF2Vivr2d2HbkG935T6ddHRPUgYgDTQ"
+			]
+		},
+		"constructors/Ownable.sol": {
+			"keccak256": "0x45da72c8041e3f20f88f2074f792cf2547c2910c2c4b453500f604b9d98c0deb",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b280831ea4c9f84ff59c38682b1ccfdab5dd35e5f3c7863c5f8052f6251b5da6",
+				"dweb:/ipfs/QmXh8RDCpuPwXRzfWZqVd7VPRkZbVRHFqtYeUt9U2VwTuv"
+			]
+		}
+	},
+	"version": 1
+}

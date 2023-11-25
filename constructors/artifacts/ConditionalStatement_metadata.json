@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_message",
+						"type": "string"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "test",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"constructors/ConditionalStatements.sol": "ConditionalStatement"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"constructors/ConditionalStatements.sol": {
+			"keccak256": "0x3af1f637b2009910f234c7d7cbfc4061adb99508eaf00ea55cb0dc6510272a14",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://536cb295206770b6d722bfda82024b604b3e0dc682557c4194897430f1cdd504",
+				"dweb:/ipfs/QmWvgNGSMgjusSJoTKFtvwondAb1CRpt9qiWbFcVmp8AdS"
+			]
+		}
+	},
+	"version": 1
+}

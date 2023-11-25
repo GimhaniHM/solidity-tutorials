@@ -1,0 +1,51 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"constructors/Project.sol": "ProjectTest"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"constructors/Project.sol": {
+			"keccak256": "0xcb8e02c4b1e81031630b3f2dc2fdae663df672a2e5de5cbcb6ea40d3e267a276",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f60dc8771c33133b0cbc8230be31d0bb3639f46f5957b49d8ef507ad25a2bd76",
+				"dweb:/ipfs/QmbtvnC3FEyX3BsKwJTejXAKTdhfcY4BeZMfpSxU8KwSkp"
+			]
+		}
+	},
+	"version": 1
+}
